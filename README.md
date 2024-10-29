@@ -4,13 +4,13 @@
 
 I'm a full-stack developer passionate about creating innovative solutions and currently seeking opportunities in the tech industry.
 
-🔭 I'm currently working on upgrading D2Loot's algorithm with machine learning capabilities.
+🔭  I'm currently working on upgrading D2Loot's algorithm with machine learning capabilities.
 
-🚀 I'm looking to join a dynamic tech company where I can contribute my full-stack skills.
+🚀  I'm looking to join a dynamic tech company where I can contribute my full-stack skills.
 
-🌱 I'm currently learning machine learning algorithms and their applications in data analysis.
+🌱  I'm currently learning machine learning algorithms and their applications in data analysis.
 
-✨ Feel free to reach out if you want to discuss tech, gaming, or potential opportunities!
+✨  Feel free to reach out if you want to discuss tech, gaming, or potential opportunities!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnadamome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adamararcane) 
