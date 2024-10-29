@@ -2,9 +2,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm a full-stack developer passionate about creating innovative solutions and currently seeking opportunities in the tech industry.
+**I'm a full-stack developer passionate about creating innovative solutions and currently seeking opportunities in the tech industry.**
 
-🔭  I'm currently working on upgrading D2Loot's algorithm with machine learning capabilities.
+🔭 I'm currently working on upgrading D2Loot's algorithm with machine learning capabilities.
 
 🚀  I'm looking to join a dynamic tech company where I can contribute my full-stack skills.
 
